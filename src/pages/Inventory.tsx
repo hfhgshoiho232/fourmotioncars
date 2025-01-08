@@ -14,7 +14,7 @@ const cars: Car[] = [
     fuelType: 'Petrol',
     transmission: 'Automatic',
     color: 'Black',
-    images: ['https://images.unsplash.com/photo-1622200284414-a1f0b23a0d6e'],
+    images: ['https://i.ytimg.com/vi/N5_6XDAmq6E/maxresdefault.jpg'],
     features: ['Leather Seats', 'Navigation', 'Premium Sound'],
     description: 'Luxury sedan with advanced features',
   },
