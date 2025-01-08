@@ -5,7 +5,7 @@ const brands: Brand[] = [
   {
     id: '1',
     name: 'Mercedes-Benz',
-    logo: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&q=80',
+    logo: 'https://i.ytimg.com/vi/N5_6XDAmq6E/maxresdefault.jpg?auto=format&fit=crop&q=80',
     description: 'The best or nothing.',
   },
   {
