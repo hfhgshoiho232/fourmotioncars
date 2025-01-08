@@ -59,7 +59,7 @@ export default function FeaturedCars() {
       fuelType: 'Gasoline',
       transmission: 'Automatic',
       color: 'Black',
-      images: ['https://images.unsplash.com/photo-1622200284414-a1f0b23a0d6e?auto=format&fit=crop&q=80'],
+      images: ['https://i.ytimg.com/vi/N5_6XDAmq6E/maxresdefault.jpg?auto=format&fit=crop&q=80'],
       features: [],
       description: '',
     },
